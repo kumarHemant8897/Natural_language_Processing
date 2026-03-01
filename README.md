@@ -1,5 +1,5 @@
 This repository contains:
-Made by: Hament
+Made by: Hament kumar
 
 📖 NLP learning notes
 
